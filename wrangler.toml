@@ -1,4 +1,4 @@
-name = "api-cf"
+name = "random-do"
 account_id = "b6641681fe423910342b9ffa1364c76d"
 route = { pattern = "*/*", zone_id = "0706721fec2937b66031942efa9a99bf" }
 main = "worker.js"
