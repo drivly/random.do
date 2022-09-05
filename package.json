@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "faker": "^5.5.3"
+    "faker": "^5.5.3",
+    "itty-router": "^2.6.1",
+    "itty-router-extras": "^0.4.2"
   }
 }
